@@ -33,14 +33,16 @@ filetype plugin indent on    " required
 "      
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line         
-                                               
+
+" Here is the basic set of my Vim/NeoVIm "
 syntax on
 set number   
 set tabstop=2 
 set hlsearch     
 set noerrorbells
 set shiftwidth=2    
-                    
+
+" This autocmd make <F9> autoexec the Python script "
 autocmd FileType python map <buffer> <F9> :w<CR>:exec '!python3' shellescape(@%, 1)<CR>
 autocmd FileType python imap <buffer> <F9> <esc>:w<CR>:exec '!python3' shellescape(@%, 1)<CR>
 
