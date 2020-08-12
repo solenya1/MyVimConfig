@@ -22,7 +22,7 @@ let g:airline_theme='simple'
 "Nvim markdown Highlight (for some reason i have to install tubular too)"
 Plugin 'godlygeek/tubular'
 Plugin 'plasticboy/vim-markdown'
-
+let g:vim_markdown_folding_disabled = 1
     
 " All of your Plugins must be added before the following line    
 call vundle#end()            " required    
