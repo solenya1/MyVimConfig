@@ -17,7 +17,12 @@ let g:python_highlight_all = 1
 "Vim-Airline é uma melhora da Status-Bar do vim/nvim"    
 Plugin 'vim-airline/vim-airline'    
 Plugin 'vim-airline/vim-airline-themes'    
-let g:airline_theme='simple'    
+let g:airline_theme='simple'
+
+"Nvim markdown Highlight (for some reason i have to install tubular too)"
+Plugin 'godlygeek/tubular'
+Plugin 'plasticboy/vim-markdown'
+
     
 " All of your Plugins must be added before the following line    
 call vundle#end()            " required    
