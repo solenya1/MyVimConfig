@@ -16,7 +16,7 @@ export COLOR_11='#FF0000'		# EXEC					:: RED
 export COLOR_12='#ADA110'   #								:: YELLOW
 export COLOR_13='#5F4AA6'		# FOLDER				:: PURPLE
 export COLOR_14='#B74438'		#								:: DARK RED
-export COLOR_15='#408F0C'		#								:: GREEN
+export COLOR_15='#14A0B3'		#								:: BLUE 
 export COLOR_16='#FFFFFF'		#								:: WHITE
 
 export BACKGROUND_COLOR='#1F1E1F'   #BACKGROUND COLOR :: GREYGEO
