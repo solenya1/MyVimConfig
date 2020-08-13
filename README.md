@@ -20,7 +20,7 @@ Um excelente Plugin que melhora bastante a syntaxe do Python dentro do vim.
 
 [Vim-Airline](https://github.com/vim-airline/vim-airline)
 
-Plugin que deixa a barra de status do vim mais intuitiva e elegante. Bem legal de se usar, ainda mais para quem está começando por indicar quando o vim esta em Normal mode , insert mode ou visual mode. Possui varios [temas](https://github.com/vim-airline/vim-airline)
+Plugin que deixa a barra de status do vim mais intuitiva e elegante. Bem legal de se usar, ainda mais para quem está começando, por indicar quando o vim esta em Normal mode , insert mode ou visual mode. Possui varios [temas](https://github.com/vim-airline/vim-airline)
 
 [Vim-Markdown](https://github.com/plasticboy/vim-markdown)
 
@@ -29,10 +29,13 @@ Possui um preview de markdown, muito facíl de usar.
 
 ## ColorScheme
 
-Minha configuração de cores é feita utilizando o [Gogh]('https://github.com/Mayccoll/Gogh') em uma configuração de cores personalizada que eu criei baseada nas cores que o George Hotz utiliza em seu terminal. Todo o tutorial de instalação do Colorscheme você pode acessar em [themes]('https://github.com/solenya1/MyVimConfig/tree/master/themes').Vale ressaltar que o George usa Mac Os então as configurações do Sheel são um pouco diferentes.
+Minha configuração de cores é feita utilizando o [Gogh]('https://github.com/Mayccoll/Gogh') em uma configuração de cores personalizada que eu criei baseada nas cores que o George Hotz utiliza em seu terminal.
+	Todo o tutorial de instalação do Colorscheme você pode acessar em [themes]('https://github.com/solenya1/MyVimConfig/tree/master/themes').Vale ressaltar que o George usa Mac Os então as configurações do Sheel são um pouco diferentes.
 	Caso você queira conferir a configuração original você poder encontrar no próprio repositório dele em [geohot/configuration]('https://github.com/geohot/configuration').
 
-![IMAGE]('https://imgur.com/a/uq9BYSW.png')
+Para Comparação: 
+
+![IMAGE]('https://imgur.com/yoI3Rae.png')
 
 
 
