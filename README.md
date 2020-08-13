@@ -35,7 +35,7 @@ Minha configuração de cores é feita utilizando o [Gogh]('https://github.com/M
 
 Para Comparação: 
 
-![Imgur](https://imgur.com/yoI3Rae)
+![Imgur](https://imgur.com/yoI3Rae.png)
 
 
 
