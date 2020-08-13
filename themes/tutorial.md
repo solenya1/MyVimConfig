@@ -21,12 +21,12 @@ Após clonado vamos salvar o arquivo `GeoHot_theme.sh` desse repositório dentro
 
 Saia da pasta e abra o arquivo `gogh.sh` com o seu editor de texto: procure pela linha 209 , logo abaixo do ultimo tema será aonde vamos inserir nosso novo tema que foi adicionado.
 
-`
+```
 208   'wzoreck.sh'
 209   'zenburn.sh'
 210   'GeoHot_theme.sh'
 211 )
-`
+```
 
 ## Instalando o tema
 
