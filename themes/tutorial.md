@@ -30,7 +30,11 @@ Saia da pasta e abra o arquivo `gogh.sh` com o seu editor de texto: procure pela
 
 ## Instalando o tema
 
-salve o arquivo e o execute com o comando:
+salve o arquivo e o execute o comando:
+
+`chmod +x gogh.sh`
+
+Chmod para alterar as permissões do arquivo e execute:
 
 `./gogh.sh`
 
