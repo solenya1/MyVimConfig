@@ -37,7 +37,7 @@ Caso você queira conferir a configuração original você poder encontrar no pr
 
 Para Comparação: 
 
-![IMAGE]('https://imgur.com/yoI3Rae.png')
+![Imgur](https://imgur.com/yoI3Rae.png)
 
 
 
