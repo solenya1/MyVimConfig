@@ -42,10 +42,12 @@ filetype plugin indent on    " required
 " Here is the basic set of my Vim/NeoVIm "
 syntax on
 set number   
-set tabstop=2 
+set tabstop=2
+set shiftwidth=2
 set hlsearch     
 set noerrorbells
 set shiftwidth=2    
+highlight Comment ctermfg=green
 
 " This autocmd make <F9> autoexec the Python script "
 autocmd FileType python map <buffer> <F9> :w<CR>:exec '!python3' shellescape(@%, 1)<CR>
