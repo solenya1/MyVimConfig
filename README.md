@@ -1,3 +1,5 @@
+Check the english version [HERE](https://github.com/solenya1/MyVimConfig/blob/master/ENG_README.md)
+
 # MyVimConfig :green_book:
 
 Esse repositório possui as configurações que eu gosto de usar no vim/NeoVim.
