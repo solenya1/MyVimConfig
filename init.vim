@@ -14,11 +14,6 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'sheerun/vim-polyglot'    
 let g:python_highlight_all = 1    
     
-"Vim-Airline é uma melhora da Status-Bar do vim/nvim"    
-Plugin 'vim-airline/vim-airline'    
-Plugin 'vim-airline/vim-airline-themes'    
-let g:airline_theme='simple'
-
 "Nvim markdown Highlight (for some reason i have to install tubular too)"
 Plugin 'godlygeek/tubular'
 Plugin 'plasticboy/vim-markdown'
@@ -47,6 +42,7 @@ set shiftwidth=2
 set hlsearch     
 set noerrorbells
 set shiftwidth=2    
+set laststatus=0
 highlight Comment ctermfg=green
 
 " This autocmd make <F9> autoexec the Python script "

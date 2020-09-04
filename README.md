@@ -20,10 +20,6 @@ Ultimamente eu estou usando:
 
 Um excelente Plugin que melhora bastante a syntaxe do Python dentro do Vim. 
 
-[Vim-Airline](https://github.com/vim-airline/vim-airline)
-
-Plugin que deixa a barra de status do vim mais intuitiva e elegante. Bem legal de se usar, ainda mais para quem está começando agora a utilizar o Vim, por indicar quando o Vim esta em Normal mode , insert mode ou visual mode. Possui varios [temas](https://github.com/vim-airline/vim-airline)
-
 [Vim-Markdown](https://github.com/plasticboy/vim-markdown)
 
 É um plugin de highlight para arquivos `.md` dentro do Vim.
