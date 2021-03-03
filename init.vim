@@ -9,16 +9,8 @@ call vundle#begin()
     
 " let Vundle manage Vundle, required    
 Plugin 'VundleVim/Vundle.vim'    
-"Polyglot melhora as systaxe do Pytho no vim/nvim"    
     
-Plugin 'sheerun/vim-polyglot'    
-let g:python_highlight_all = 1    
-    
-"Nvim markdown Highlight (for some reason i have to install tubular too)"
-Plugin 'godlygeek/tubular'
-Plugin 'plasticboy/vim-markdown'
-let g:vim_markdown_folding_disabled = 1
-    
+   
 " All of your Plugins must be added before the following line    
 call vundle#end()            " required    
 filetype plugin indent on    " required    
@@ -34,21 +26,22 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line         
 
+
 " Here is the basic set of my Vim/NeoVIm "
 syntax on
+set ai 
 set number   
 set tabstop=2
+set expandtab
 set shiftwidth=2
 set hlsearch     
 set noerrorbells
 set shiftwidth=2    
 set laststatus=0
+set ruler
+colorscheme peachpuff
 highlight Comment ctermfg=green
 
 " This autocmd make <F9> autoexec the Python script "
 autocmd FileType python map <buffer> <F9> :w<CR>:exec '!python3' shellescape(@%, 1)<CR>
 autocmd FileType python imap <buffer> <F9> <esc>:w<CR>:exec '!python3' shellescape(@%, 1)<CR>
-
-        
-    
-
