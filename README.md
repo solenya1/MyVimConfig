@@ -16,13 +16,10 @@ Eu utilizo o [Vundle](https://github.com/gmarik/vundle), por ser mais prático e
 
 Ultimamente eu estou usando:
 
-[Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
+1. [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
-Um excelente Plugin que melhora bastante a syntaxe do Python dentro do Vim. 
 
-[Vim-Markdown](https://github.com/plasticboy/vim-markdown)
 
-É um plugin de highlight para arquivos `.md` dentro do Vim.
 
 
 ## ColorScheme :art:
