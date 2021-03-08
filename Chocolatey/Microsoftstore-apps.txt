@@ -1,0 +1,3 @@
+Notepads
+Files
+taskbar-x

@@ -1,0 +1,5 @@
+modernflyouts
+spotify
+adobereader
+winrar
+git
